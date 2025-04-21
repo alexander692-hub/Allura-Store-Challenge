@@ -19,6 +19,6 @@
 - Numpy
 - Jupyter Notebook
   
-**El proyecto ya esta resuelto en el domumento Allura Store Challenge**
+**El proyecto ya esta resuelto en el domumento  Desafio Allura Tienda**
                           
 
